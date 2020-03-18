@@ -1,0 +1,22 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "My stunning Nuxt.js project",
+  "author": "fnicoletta",
+  "private": true,
+  "scripts": {
+    "serve": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/bulma": "^1.2.1",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2",
+    "vue-router": "^3.1.6"
+  },
+  "devDependencies": {}
+}
